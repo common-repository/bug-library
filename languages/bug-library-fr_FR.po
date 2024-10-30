@@ -1,0 +1,722 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bug Library\n"
+"POT-Creation-Date: 2020-11-15 10:24-0500\n"
+"PO-Revision-Date: 2020-11-29 11:24-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: bug-library.php:208
+msgid "Bug Details"
+msgstr "Détails du problème"
+
+#: bug-library.php:221 bug-library.php:1264 bug-library.php:2152
+#: bug-library.php:2205
+msgid "Products"
+msgstr "Produits"
+
+#: bug-library.php:224
+msgid "Add New Product"
+msgstr "Ajouter un nouveau produit"
+
+#: bug-library.php:225
+msgid "New Product Name"
+msgstr "Nom du nouveau produit"
+
+#: bug-library.php:242
+msgid "Bug Status"
+msgstr "Statut du bug"
+
+#: bug-library.php:245
+msgid "Add New Status"
+msgstr "Ajouter un nouveau statut"
+
+#: bug-library.php:246
+msgid "New Status"
+msgstr "Nouveau statut"
+
+#: bug-library.php:260 bug-library.php:1266 bug-library.php:2248
+msgid "Types"
+msgstr "Types"
+
+#: bug-library.php:263
+msgid "Add New Type"
+msgstr "Ajouter un nouveau type"
+
+#: bug-library.php:264
+msgid "New Type"
+msgstr "Nouveau type"
+
+#: bug-library.php:278 bug-library.php:2326
+msgid "Priorities"
+msgstr "Priorités"
+
+#: bug-library.php:281
+msgid "Add New Priority"
+msgstr "Ajouter une nouvelle priorité"
+
+#: bug-library.php:282
+msgid "New Priority"
+msgstr "Nouvelle priorité"
+
+#: bug-library.php:299
+msgid "Type ID"
+msgstr "Identifiant du type"
+
+#: bug-library.php:311
+msgid "Product ID"
+msgstr "Identifiant du produit"
+
+#: bug-library.php:323
+msgid "Status ID"
+msgstr "Identifiant du statut"
+
+#: bug-library.php:335
+msgid "Priority ID"
+msgstr "Identifiant de priorité"
+
+#: bug-library.php:358
+msgid "Bugs"
+msgstr "Problèmes"
+
+#: bug-library.php:359
+msgid "Bug"
+msgstr "Problème"
+
+#: bug-library.php:360
+msgid "Add New"
+msgstr "Ajouter un nouveau"
+
+#: bug-library.php:361
+msgid "Add New Bug"
+msgstr "Ajouter un nouveau problème"
+
+#: bug-library.php:362
+msgid "Edit"
+msgstr "Éditer"
+
+#: bug-library.php:363
+msgid "Edit Bug"
+msgstr "Modifier le problème"
+
+#: bug-library.php:364
+msgid "New Bug"
+msgstr "Nouveau problème"
+
+#: bug-library.php:365 bug-library.php:366
+msgid "View Bug"
+msgstr "Voir le problème"
+
+#: bug-library.php:367
+msgid "Search Bugs"
+msgstr "Rechercher parmi les problèmes"
+
+#: bug-library.php:368
+msgid "No bugs found"
+msgstr "Aucun problème trouvé"
+
+#: bug-library.php:369
+msgid "No bugs found in Trash"
+msgstr "Aucun problème trouvé dans la corbeille"
+
+#: bug-library.php:370
+msgid "Parent Bug"
+msgstr "Problème parent"
+
+#: bug-library.php:384
+msgid "ID"
+msgstr "Identifiant"
+
+#: bug-library.php:385 bug-library.php:510 bug-library.php:744
+#: bug-library.php:2401
+msgid "Product"
+msgstr "Concerne ce produit"
+
+#: bug-library.php:386 bug-library.php:528 bug-library.php:767
+#: bug-library.php:1265 bug-library.php:2169 bug-library.php:2287
+#: bug-library.php:2405
+msgid "Status"
+msgstr "Statut"
+
+#: bug-library.php:387 bug-library.php:546 bug-library.php:795
+#: bug-library.php:2161
+msgid "Type"
+msgstr "Type"
+
+#: bug-library.php:388 bug-library.php:564 bug-library.php:818
+#: bug-library.php:1267 bug-library.php:2177 bug-library.php:2408
+msgid "Priority"
+msgstr "Priorité"
+
+#: bug-library.php:389 bug-library.php:582
+msgid "Assignee"
+msgstr "Assigné à"
+
+#: bug-library.php:414 bug-library.php:418 bug-library.php:716
+msgid "Unassigned"
+msgstr "Non assigné"
+
+#: bug-library.php:446 bug-library.php:460 bug-library.php:474
+#: bug-library.php:488
+msgid "Show All"
+msgstr "Laissez vide pour afficher tous les résultats"
+
+#: bug-library.php:608
+msgid "Assigned"
+msgstr "Assigné"
+
+#: bug-library.php:692
+msgid "Assigned user"
+msgstr "Assigné à"
+
+#: bug-library.php:845
+msgid "Version"
+msgstr "(Ce message a été ajouté à la version %s.)"
+
+#: bug-library.php:855 submitnewissue.php:176
+msgid "Reporter Name"
+msgstr "Nom de l'auteur"
+
+#: bug-library.php:865 submitnewissue.php:177
+msgid "Reporter E-mail"
+msgstr "Adresse email de l'auteur"
+
+#: bug-library.php:875
+msgid "Resolution Date"
+msgstr "Date de résolution"
+
+#: bug-library.php:885
+msgid "Resolution Version"
+msgstr "Version du logiciel"
+
+#: bug-library.php:895
+msgid "Attached File"
+msgstr "Fichier joint"
+
+#: bug-library.php:898
+msgid "File Attachment"
+msgstr "Lien URL du fichier joint"
+
+#: bug-library.php:900
+msgid "No file attached to this bug"
+msgstr "Aucun fichier joint à ce bug"
+
+#: bug-library.php:903
+msgid "Attach new file"
+msgstr "Nouveau fichier"
+
+#: bug-library.php:1136
+msgid "Edit this item inline"
+msgstr "Inline"
+
+#: bug-library.php:1138
+msgid "Quick&nbsp;Edit"
+msgstr "(Modifier)"
+
+#: bug-library.php:1185 bug-library.php:1201
+msgid "Default Status"
+msgstr "Statut par défaut"
+
+#: bug-library.php:1186
+msgid "Default Priority"
+msgstr "Priorité par défaut"
+
+#: bug-library.php:1188
+msgid "New bug added to Wordpress Bug Library: %bugtitle%"
+msgstr "Nouveau problème créé avec WordPress Bug Library: %bugtitle%"
+
+#: bug-library.php:1244
+msgid "Bug Library General Options"
+msgstr "Configuration générale"
+
+#: bug-library.php:1244
+msgid "General Options"
+msgstr "Configuration générale"
+
+#: bug-library.php:1249
+msgid "Bug Library - Stylesheet Editor"
+msgstr "Bug Library - Editeur de la feuille de styles"
+
+#: bug-library.php:1249 bug-library.php:1298
+msgid "Stylesheet"
+msgstr "Feuille de style"
+
+#: bug-library.php:1254
+msgid "Bug Library - Instructions"
+msgstr "Bug Library - Instructions"
+
+#: bug-library.php:1254 bug-library.php:1303
+msgid "Instructions"
+msgstr "Instructions"
+
+#: bug-library.php:1281
+msgid "General Settings"
+msgstr "Configuration générale"
+
+#: bug-library.php:1285
+msgid "User Submission Settings"
+msgstr "Configuration de la contribution des utilisateurs"
+
+#: bug-library.php:1289
+msgid "Import / Export"
+msgstr "Importer / Exporter"
+
+#: bug-library.php:1293 bug-library.php:1953
+msgid "Save"
+msgstr "Enregistrer"
+
+#: bug-library.php:1326
+msgid "General Settings Saved"
+msgstr "Configuration générale enregistrée"
+
+#: bug-library.php:1328
+msgid ""
+"Please create a folder called uploads under your Wordpress /wp-content/ "
+"directory with write permissions to use this functionality."
+msgstr ""
+"Veuillez créer un répertoire nommé uploads dans le répertoire wp-content de "
+"votre installation WordPress avec les permissions d&rsquo;écriture pour "
+"utiliser cette fonctionnalité."
+
+#: bug-library.php:1330
+msgid ""
+"Please make sure that the /wp-content/uploads/ directory has write "
+"permissions to use this functionality."
+msgstr ""
+"Veuillez vous assurer que le répertoire /wp-content/uploads à des "
+"permissions d&rsquo;écriture pour utiliser cette fonctionnalité."
+
+#: bug-library.php:1332
+msgid "Invalid column count for bug on row"
+msgstr "Le nombre de colonnes dans la table bug est invalide"
+
+#: bug-library.php:1334
+msgid "row(s) found"
+msgstr "ligne(s) trouvée(s)"
+
+#: bug-library.php:1334
+msgid "bugs(s) imported successfully"
+msgstr "problème(s) importé(s) avec succès"
+
+#: bug-library.php:1338
+msgid "Bug Library General Settings"
+msgstr "Configuration générale de Bug Library"
+
+#: bug-library.php:1342
+msgid "Bug Library Stylesheet Editor"
+msgstr "Editeur de la feuille de styles de Bug Library"
+
+#: bug-library.php:1345
+msgid "Stylesheet updated"
+msgstr "Feuille de style mise à jour"
+
+#: bug-library.php:1347
+msgid "Stylesheet reset to original state"
+msgstr "Feuille de style originale restaurée"
+
+#: bug-library.php:1352
+msgid "Bug Library Usage Instructions"
+msgstr "Utilisation de Bug Library"
+
+#: bug-library.php:1424 bug-library.php:1623 bug-library.php:1667
+msgid "Not allowed"
+msgstr "Non autorisé"
+
+#: bug-library.php:1683
+msgid "Number of entries per page"
+msgstr "Nombre d'enregistrements par page"
+
+#: bug-library.php:1689 bug-library.php:1690
+msgid "Must re-apply permalink rules for this option to take effect"
+msgstr ""
+"Il faut réappliquer les règles de permaliens pour que cette option prenne "
+"effet"
+
+#: bug-library.php:1689
+msgid "Parent page (for permalink structure)"
+msgstr "Page parente&nbsp;:"
+
+#: bug-library.php:1695
+msgid "Default (bugs)"
+msgstr "Par défaut"
+
+#: bug-library.php:1710
+msgid "Show bug priorities"
+msgstr "Afficher les priorités"
+
+#: bug-library.php:1715
+msgid "Show reporter name"
+msgstr "Afficher le nom de l'auteur"
+
+#: bug-library.php:1720
+msgid "Show assigned user"
+msgstr "Afficher l'utilisateur assigné"
+
+#: bug-library.php:1725
+msgid "Minimum role for bug assignment"
+msgstr "Rôle minimum pour pouvoir assigner les problèmes"
+
+#: bug-library.php:1745
+msgid "Minimum role to get bug edit link"
+msgstr "Rôle minimum pour avoir le lien d'édition des problèmes"
+
+#: bug-library.php:1764
+msgid "Exclude bugs from site search"
+msgstr "Exclure les problèmes de la recherche du site"
+
+#: bug-library.php:1778
+msgid "Moderate new submissions"
+msgstr "Modérer les nouveaux problèmes"
+
+#: bug-library.php:1783
+msgid "Show Captcha in submission form"
+msgstr "Exiger un captcha pour permettre de soumettre des problèmes"
+
+#: bug-library.php:1789
+msgid "Allow file attachments"
+msgstr "Permettre de joindre des fichiers"
+
+#: bug-library.php:1794
+msgid "Require login to submit new issues"
+msgstr "Exiger l'authentification pour permettre de soumettre des problèmes"
+
+#: bug-library.php:1800
+msgid "Require Reporter Name"
+msgstr "Exiger un nom"
+
+#: bug-library.php:1805
+msgid "Require Reporter E-mail"
+msgstr "Exiger une adresse email"
+
+#: bug-library.php:1811
+msgid "Hide product selection field"
+msgstr "Cacher le champ de sélection des produits"
+
+#: bug-library.php:1816
+msgid "Hide version number field"
+msgstr "Cacher le champ de sélection de version"
+
+#: bug-library.php:1822
+msgid "Hide issue type field"
+msgstr "Cacher le champ de sélection du type"
+
+#: bug-library.php:1832
+msgid "Add empty option to product list"
+msgstr "Ajouter une option vide dans la liste des produits"
+
+#: bug-library.php:1837
+msgid "Add empty option to issue list"
+msgstr "Ajouter une option vide dans la liste des problèmes"
+
+#: bug-library.php:1843
+msgid "Default user bug status"
+msgstr "Statut par défaut"
+
+#: bug-library.php:1863
+msgid "Default user bug priority"
+msgstr "Priorité par défaut"
+
+#: bug-library.php:1878
+msgid "Default product"
+msgstr "Produit par défaut"
+
+#: bug-library.php:1885
+msgid "No default"
+msgstr "Par défaut"
+
+#: bug-library.php:1894
+msgid "Closed bug status"
+msgstr "Statut des problèmes fermés"
+
+#: bug-library.php:1908
+msgid "Close comments on closed status"
+msgstr "Commentaires sur les problèmes fermés"
+
+#: bug-library.php:1914
+msgid "Notify admin of new bugs"
+msgstr "Notifier l'administrateur de nouveaux problèmes"
+
+#: bug-library.php:1920 bug-library.php:1921
+msgid ""
+"Set the title of new bug e-mail notifications. Use variable %bugtitle% to be "
+"replaced by the new bug title."
+msgstr ""
+"Le titre de l'email de notification. Utilisez la variable %bugtitle% qui "
+"sera remplacée par le titre du nouveau problème."
+
+#: bug-library.php:1920
+msgid "New bug notification title"
+msgstr "Titre du courriel de notification"
+
+#: bug-library.php:1934
+msgid "First Row Contains Headers"
+msgstr "La première ligne contient les en-têtes ?"
+
+#: bug-library.php:1941
+msgid ""
+"Allows for bugs to be added in batch to the Wordpress bugs database. CSV "
+"file needs to follow template for column layout."
+msgstr ""
+"Permet de rajouter des problèmes dans la base de données avec un fichier CSV "
+"qui doit respecter l'exemple de fichiere."
+
+#: bug-library.php:1941
+msgid "CSV file to upload to import bugs"
+msgstr "Fichier CSV à envoyer pour importer les problèmes"
+
+#: bug-library.php:1941
+msgid "file template"
+msgstr "Fichier de modèle CSV"
+
+#: bug-library.php:1944
+msgid "Import Bugs"
+msgstr "Importer les problèmes depuis un CSV"
+
+#: bug-library.php:1963
+msgid "Submit"
+msgstr "Soumettre"
+
+#: bug-library.php:1963
+msgid "Reset to default"
+msgstr "Restaurer les valeurs par défaut"
+
+#: bug-library.php:1972
+msgid ""
+"To get a basic Bug Library list showing on one of your Wordpress pages, "
+"create a new page and type the following text: [bug-library]"
+msgstr ""
+"Pour avoir une liste basique de Bug Library sur une page de WordPress, "
+"insérez le texte suivant dans les pages : [bug-library]"
+
+#: bug-library.php:1973
+msgid ""
+"Configure the Bug Library General Options section for more control over the "
+"plugin functionality."
+msgstr ""
+"Configurez les options de Bug Library pour mieux contrôler les "
+"fonctionnalités de l'extension."
+
+#: bug-library.php:1974
+msgid ""
+"Copy the file single-bug-library-bugs.php from the bug-library plugin "
+"directory to your theme directory to display all information related to your "
+"bugs. You might have to edit this file a bit and compare it to single.php to "
+"get the proper layout to show up on your web site."
+msgstr ""
+"Copiez le fichier single-bug-library-bugs.php du répertoire de l'extension "
+"bug-library vers le répertoire de votre thème pour afficher toutes les "
+"informations relatives aux problèmes. Vous devrez éditer ce fichier et le "
+"comparer au fichier single.php pour avoir un affichage correct sur votre "
+"site."
+
+#: bug-library.php:2144
+msgid "Filtered by"
+msgstr "Filtré par"
+
+#: bug-library.php:2147
+msgid "None"
+msgstr "Aucun"
+
+#: bug-library.php:2180
+msgid "Change Filter"
+msgstr "Changer le filtre"
+
+#: bug-library.php:2195
+msgid "Remove all filters"
+msgstr "Retirer tous les filtres"
+
+#: bug-library.php:2200
+msgid "Report new issue"
+msgstr "Nouveau problème"
+
+#: bug-library.php:2227 bug-library.php:2229
+msgid "All Products"
+msgstr "Tous les produits"
+
+#: bug-library.php:2270 bug-library.php:2272
+msgid "All Types"
+msgstr "Tous les types"
+
+#: bug-library.php:2309 bug-library.php:2311
+msgid "All Statuses"
+msgstr "Tous les statuts"
+
+#: bug-library.php:2348 bug-library.php:2350
+msgid "All Priorities"
+msgstr "Toutes les priorités"
+
+#: bug-library.php:2403
+msgid "Report Date"
+msgstr "Date du rapport"
+
+#: bug-library.php:2412
+msgid "Reporter"
+msgstr "Auteur"
+
+#: bug-library.php:2423
+msgid "Assigned to"
+msgstr "Assigné à"
+
+#: bug-library.php:2465 bug-library.php:2469
+msgid "Previous"
+msgstr "Précédent"
+
+#: bug-library.php:2499 bug-library.php:2503
+msgid "Next"
+msgstr "Suivant"
+
+#: bug-library.php:2512
+msgid "There are 0 bugs to view based on the currently selected filters."
+msgstr "Aucun problème trouvé selon le filtre de recherche appliqué."
+
+#: submitnewissue.php:39
+msgid "Confirm code not given"
+msgstr "Le code de confirmation n&rsquo;a pas été saisi"
+
+#: submitnewissue.php:49
+msgid "Captcha code is wrong"
+msgstr "Le code du captcha est incorrect"
+
+#: submitnewissue.php:54
+msgid "Captcha code is only valid for 5 minutes"
+msgstr "Le code du captcha n&rsquo;est valide que durant 5 minutes"
+
+#: submitnewissue.php:64
+msgid "No captcha cookie given. Make sure cookies are enabled"
+msgstr ""
+"Aucun cookie pour le captcha. Veuillez vous assurer que les cookies sont "
+"activés."
+
+#: submitnewissue.php:161
+msgid "A user submitted a new bug to your Wordpress Bug database."
+msgstr ""
+"Un utilisateur a soumis un nouveau problème avec WordPress Bug Library."
+
+#: submitnewissue.php:162
+msgid "Bug Title"
+msgstr "Titre"
+
+#: submitnewissue.php:163
+msgid "Bug Description"
+msgstr "Description"
+
+#: submitnewissue.php:165
+msgid "Bug Product"
+msgstr "Produit"
+
+#: submitnewissue.php:169
+msgid "Bug Version"
+msgstr "Version"
+
+#: submitnewissue.php:173
+msgid "Bug Type"
+msgstr "Type"
+
+#: submitnewissue.php:180
+msgid "Moderate new bugs"
+msgstr "Modérer les nouveaux problèmes"
+
+#: submitnewissue.php:182
+msgid "View bugs"
+msgstr "Voir les problèmes"
+
+#: submitnewissue.php:185
+msgid "Message generated by"
+msgstr "Message généré par"
+
+#: submitnewissue.php:194
+msgid "New bug added"
+msgstr "Nouveau problème soumis"
+
+#: submitnewissue.php:204
+msgid "Missing required field(s). Please complete form."
+msgstr "Champ(s) manquant(s). Merci de compléter le formulaire."
+
+#: submitnewissue.php:221
+msgid "Submit a new issue"
+msgstr "Soumettre un nouveau problème"
+
+#: submitnewissue.php:223
+msgid "Issue Title"
+msgstr "Titre du problème"
+
+#: submitnewissue.php:228
+msgid "Issue Product"
+msgstr "Concerne"
+
+#: submitnewissue.php:234
+msgid "Select a product"
+msgstr "Sélectionnez un produit"
+
+#: submitnewissue.php:246
+msgid "Version Number"
+msgstr "(Ce message a été ajouté à la version %s.)"
+
+#: submitnewissue.php:252
+msgid "Issue Type"
+msgstr "Type de problème"
+
+#: submitnewissue.php:258
+msgid "Select an issue type"
+msgstr "Sélectionnez un type de problème"
+
+#: submitnewissue.php:270
+msgid "Description"
+msgstr "Description"
+
+#: submitnewissue.php:275
+msgid "Issue Reporter Name"
+msgstr "Votre nom"
+
+#: submitnewissue.php:275
+msgid "optional"
+msgstr "facultatif"
+
+#: submitnewissue.php:280
+msgid "Issue Reported E-mail"
+msgstr "Votre adresse email"
+
+#: submitnewissue.php:280
+msgid "optional, for update notifications only"
+msgstr "facultatif, pour les notifications par email seulement"
+
+#: submitnewissue.php:285
+msgid "Attach File"
+msgstr "Joindre un fichier"
+
+#: submitnewissue.php:291
+msgid "Enter code from above image"
+msgstr "Entrer le code de l&rsquo;image ci-dessus"
+
+#: submitnewissue.php:301
+msgid "Thank you for your submission."
+msgstr "Merci pour votre contribution."
+
+#: submitnewissue.php:302
+msgid "Your new issue will appear on the site once it has been moderated."
+msgstr "Votre contribution apparaîtra sur le site dès validation"
+
+#: submitnewissue.php:303
+msgid "Click"
+msgstr "Cliquez"
+
+#: submitnewissue.php:303
+msgid "here"
+msgstr "ici"
+
+#: submitnewissue.php:303
+msgid ""
+"to submit a new issue or close the window to go continue browsing the "
+"database."
+msgstr ""
+"Pour soumettre un nouveau problème ou fermer la fenêtre, continuez à "
+"parcourir la base de données."
